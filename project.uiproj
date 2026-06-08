@@ -1,0 +1,6 @@
+{
+  "Name": "MeepleStock",
+  "ProjectType": "Process",
+  "Description": "RPA bot for inventory replenishment.",
+  "MainFile": "Main2.0.xaml"
+}
